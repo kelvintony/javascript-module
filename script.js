@@ -9,3 +9,6 @@
 
 let x = 89;
 let y = 9;
+let sum= x +y;
+
+console.log(sum);
